@@ -24,25 +24,21 @@ body {
   .hero-main {
     height: 100vh;
     color: #fff;
-    background-color: #fa7603;
     padding: 0 20px;
-    background-image: url('2da-pre-entrega/img/bg-image.png');
     background-position: center;
+    background-color: chocolate;
     background-repeat: no-repeat;
     background-size: cover;
-    color: #fff;
       }
 
   .hero {
         height: 100vh;
         color: #fff;
-        background-color: #fa7603;
         padding: 0 20px;
-        background-image: url('2da-pre-entrega/img/bg-image-in.png');
         background-position: center;
+        background-color: rgb(138, 57, 0);
         background-repeat: no-repeat;
         background-size: cover;
-        color: #fff;
           }
   
 /* Estilos para la sección features */
